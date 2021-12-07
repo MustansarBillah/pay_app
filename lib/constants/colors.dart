@@ -9,5 +9,7 @@ class AppColors{
   static Color cNavyBlue= const Color(0xFF305F72);
   static Color bgColor= const Color(0xFFEAF9FE);
   static Color bSheetBlue= const Color(0xFF4F9DBC);
-
+  static Color cBlue= const Color(0xFF305F72);
+  static Color kColor= const Color(0xFFEAF9FE);
+  static Color sheet= const Color(0xFF4F9DBC);
 }
